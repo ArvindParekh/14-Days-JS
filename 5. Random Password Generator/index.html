@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Noto+Serif+Ahom&family=Poppins:wght@200&display=swap"
+        rel="stylesheet">
+    <title>Password Generator</title>
+</head>
+
+<body class="text-white bg-black ">
+    <div class="w-screen h-screen">
+        <div class="flex justify-center items-center">
+            <h1 class="text-8xl mt-20 font-custom tracking-wider">Password Generator</h1>
+        </div>
+
+        <div class="box w-[40rem] m-auto h-[20rem] mt-[8.5rem] rounded-2xl shadow-md">
+            <div class="password-div-flex flex flex-col justify-center items-center ">
+                <div class="password-div flex w-fit rounded-full mt-[4rem] shadow-sm">
+                    <p class="rounded-md bg-transparent w-[20rem] pl-6 flex items-center justify-center text-xl text-black " id="showPassword"></p>
+                    <button class="py-3 my-3 px-6 mx-4 rounded-full gradient font-medium text-lg shadow-md" id="copy-btn">
+                        Copy
+                    </button>
+                </div>
+
+                <div class="mt-10">
+                    <button class="px-10 py-4 gradient rounded-full text-xl tracking-wider font-medium shadow-md" id="generate-btn">
+                        Generate Password
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script> 
+    <script src="script.js"></script>
+</body>
+
+</html>

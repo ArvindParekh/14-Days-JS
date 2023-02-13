@@ -1,0 +1,225 @@
+.gradient {
+    /* background: hsla(136, 82%, 72%, 1);
+    background: linear-gradient(90deg, hsla(136, 82%, 72%, 1) 0%, hsla(205, 84%, 36%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(136, 82%, 72%, 1) 0%, hsla(205, 84%, 36%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(136, 82%, 72%, 1) 0%, hsla(205, 84%, 36%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#7EF29D", endColorstr="#0F68A9", GradientType=1); */
+    background: linear-gradient(-45deg, #45caff 0%, #ff1b6b 100%);
+
+}
+
+.font-custom {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Ahom', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box {
+    background-color: white;
+    position: relative;
+}
+
+
+.box:before {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(-45deg, #45caff 0%, #ff1b6b 100%);
+    transform: translate3d(-9px, 20px, 0) scale(1.07);
+    filter: blur(28px);
+    opacity: var(0.49);
+    transition: opacity 0.3s;
+    border-radius: inherit;
+}
+
+/* 
+* Prevents issues when the parent creates a 
+* stacking context. (For example, using the transform
+* property )
+*/
+.box::after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    border-radius: inherit;
+}
+
+.password-div {
+    background-color: rgba(81, 81, 81, 0.06);
+}
+
+.active {
+    transform: scale(1.1);
+}
+
+.generate-active {
+    transform: scale(1.01);
+}
+
+.alert {
+    position: fixed;
+    top: 6px;
+    right: 6px;
+    padding: 10px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.226);
+    color: white;
+    font-size: 20px;
+}
+
+/* Responsivesness */
+@media only screen and (max-width: 1043px) {
+    h1 {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 661px) {
+    h1 {
+        text-align: center;
+    }
+
+    .box {
+        width: 30rem;
+    }
+
+}
+
+@media only screen and (max-width: 521px) {
+    body {
+        height: 100vh;
+        width: 100vw;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 5rem !important;
+    }
+
+    .box {
+        width: 25rem;
+    }
+
+    .password-div p {
+        width: 15rem;
+    }
+
+    #generate-btn {
+        padding: 0.75rem 0px;
+    }
+}
+
+@media only screen and (max-width: 451px) {
+
+    h1 {
+        text-align: center;
+        font-size: 4.5rem !important;
+    }
+
+    .box {
+        width: 25rem;
+        height: 16rem;
+    }
+
+    .password-div {
+        margin-top: 4rem;
+    }
+
+    .password-div p {
+        width: 10rem;
+    }
+
+    .password-div button {
+        padding: 0.25rem 0.5rem;
+        margin: 0.3rem 0.3rem;
+    }
+
+    #generate-btn {
+        padding: 0.1rem 0.75rem;
+        width: 10rem;
+        display: flex;
+        flex-wrap: wrap;
+        font-size: medium;
+        line-height: normal;
+    }
+}
+
+@media only screen and (max-width: 427px) {
+
+    h1 {
+        text-align: center;
+        font-size: 4rem !important;
+    }
+
+    .box {
+        width: 21rem;
+        height: 16rem;
+    }
+
+    .password-div {
+        margin-top: 4rem;
+    }
+
+    .password-div p {
+        width: 10rem;
+    }
+
+    .password-div button {
+        padding: 0.25rem 0.5rem;
+        margin: 0.3rem 0.3rem;
+    }
+
+    #generate-btn {
+        padding: 0.1rem 0.75rem;
+        width: 10rem;
+        display: flex;
+        flex-wrap: wrap;
+        font-size: medium;
+        line-height: normal;
+    }
+}
+
+@media only screen and (max-width: 352px) {
+
+    h1 {
+        text-align: center;
+        font-size: 3.5rem !important;
+    }
+
+    .box {
+        width: 17rem;
+    }
+
+    .password-div {
+        margin-top: 5rem;
+    }
+
+    .password-div p {
+        width: 10rem;
+    }
+
+    .password-div button {
+        /* margin: 0.5rem 0.25rem; */
+        padding: 0.25rem 0.5rem;
+        margin: 0.3rem 0.3rem;
+    }
+
+    #generate-btn {
+        padding: 0.1rem 0.75rem;
+        width: 10rem;
+        display: flex;
+        flex-wrap: wrap;
+        font-size: medium;
+        line-height: normal;
+        /* white-space: normal; */
+    }
+}
