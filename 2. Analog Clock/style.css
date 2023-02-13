@@ -1,0 +1,10 @@
+.hand{
+    transform: rotate(90deg);
+    transform-origin: 100%;
+    transition: all 0.5s;
+}
+
+
+.second-hand{
+    transition-timing-function: cubic-bezier(0.4, 0, 1, 1) ;   /* transform: rotate(25deg); */
+}

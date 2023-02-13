@@ -1,0 +1,47 @@
+.weeks{
+    width: 100%;
+    /* border: 2px solid white; */
+    height: 58px;
+    display: flex;
+}
+
+.weeks div{
+    /* border: 1px solid white; */
+    width: 67px;
+    height: 100%;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+}
+
+.days{
+    /* border: 2px solid green; */
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.days div{
+    /* border: 1px solid red; */
+    width: 67px;
+    height: 52px;
+    margin: 4px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.days div:hover{
+    background-color: #303f63;
+    border-radius: 0.50rem;
+}
+    
+
+.todaysDate{
+    background-color: #303f63;
+    border-radius: 0.50rem;
+}
