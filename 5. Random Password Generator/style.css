@@ -89,7 +89,7 @@
     }
 
     .box {
-        width: 30rem;
+        width: 30rem !important;
     }
 
 }
@@ -106,7 +106,7 @@
     }
 
     .box {
-        width: 25rem;
+        width: 25rem !important;
     }
 
     .password-div p {
@@ -126,7 +126,7 @@
     }
 
     .box {
-        width: 25rem;
+        width: 25rem !important;
         height: 16rem;
     }
 
@@ -161,7 +161,7 @@
     }
 
     .box {
-        width: 21rem;
+        width: 21rem !important;
         height: 16rem;
     }
 
@@ -196,7 +196,7 @@
     }
 
     .box {
-        width: 17rem;
+        width: 17rem !important;
     }
 
     .password-div {
