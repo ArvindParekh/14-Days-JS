@@ -16,9 +16,9 @@
 
 | Status |       Project Title        | Completion Date |                                       Source Code                                        |  Project Link  |
 | :----: | :------------------------: | :-------------: | :--------------------------------------------------------------------------------------: | :------------: |
-|   ✅   |       Digital Clock        |   10-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/1.%20Digital%20Clock)  | [Click Here]() |
-|   ✅   |        Analog Clock        |   11-Feb-2023   |  [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/2.%20Analog%20Clock)  | [Click Here]() |
-|   ✅   |       Month Calendar       |   12-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/3.%20Month%20Calendar) | [Click Here]() |
+|   ✅   |       Digital Clock        |   10-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/1.%20Digital%20Clock)  | [Click Here](https://digital-clock-14daysjs.vercel.app/) |
+|   ✅   |        Analog Clock        |   11-Feb-2023   |  [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/2.%20Analog%20Clock)  | [Click Here](https://analog-clock-14daysjs.vercel.app/) |
+|   ✅   |       Month Calendar       |   12-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/3.%20Month%20Calendar) | [Click Here](https://calendar-14daysjs.vercel.app/) |
 |   ❌   | Random Password Generator  |   13-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |   Heart Trail Animation    |   14-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |    Animated Search Bar     |   15-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
