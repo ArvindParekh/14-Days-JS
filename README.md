@@ -20,7 +20,7 @@
 |   ✅   |        Analog Clock        |   11-Feb-2023   |  [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/2.%20Analog%20Clock)  | [Click Here](https://analog-clock-14daysjs.vercel.app/) |
 |   ✅   |       Month Calendar       |   12-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/3.%20Month%20Calendar) | [Click Here](https://calendar-14daysjs.vercel.app/) |
 |   ✅   | Random Password Generator  |   13-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/5.%20Random%20Password%20Generator) | [Click Here](https://password-generator-14daysjs.vercel.app/) |
-|   ❌   |   Heart Trail Animation    |   14-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
+|   ❌   |   Heart Trail Animation    |   14-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/5.%20Trail%20Animation) | [Click Here](https://trail-animation-14daysjs.netlify.app/) |
 |   ❌   |    Animated Search Bar     |   15-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |       Sticky Navbar        |   16-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |      Dark Mode Toggle      |   17-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
