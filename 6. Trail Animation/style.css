@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    overflow: hidden;
+    height: 100vh;
+    position: relative;
+    animation: animates 7s linear infinite;
+}
+
+span {
+    position: absolute;
+    background: url(star-1.png);
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    animation: animate 2s linear infinite;
+    
+    background-size: cover;
+}
+
+@keyframes animate {
+    0% {
+        transform: translate(-50%, -50%) rotate(0turn);
+        opacity: 1;
+        filter: hue-rotate(180deg);
+    }
+
+    100% {
+        transform: translate(200%, -900%) rotate(0.15turn);
+        opacity: 0;
+        filter: hue-rotate(760deg);
+    }
+}
+@keyframes animates {
+    0% {
+        background-color: #212529;
+    }
+    50%{
+        background-color: #3d348b;
+    }
+    100%{
+        background-color: #212529;
+    }
+}
