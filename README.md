@@ -23,7 +23,7 @@
 |   ✅   |   Heart Trail Animation    |   14-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/5.%20Trail%20Animation) | [Click Here](https://trail-animation-14daysjs.netlify.app/) |
 |   ✅   |    Animated Search Bar     |   15-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/6.%20Animated%20Search%20Bar) | [Click Here](https://animated-search-bar-14daysjs.netlify.app/) |
 |   ✅   |       Sticky Navbar        |   16-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/7.%20Sticky%20Navbar) | [Click Here](https://sticky-navbar-14daysjs.netlify.app/) |
-|   ❌   |      Dark Mode Toggle      |   17-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
+|   ✅   |      Dark Mode Toggle      |   17-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/8.%20Dark%20Mode%20Toggle) | [Click Here](https://dark-mode-toggle-14daysjs.netlify.app/) |
 |   ❌   | Auto Text Effect Animation |   18-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |        Image Slider        |   19-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |     Step Progress Bar      |   20-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
