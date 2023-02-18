@@ -24,7 +24,7 @@
 |   ✅   |    Animated Search Bar     |   15-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/6.%20Animated%20Search%20Bar) | [Click Here](https://animated-search-bar-14daysjs.netlify.app/) |
 |   ✅   |       Sticky Navbar        |   16-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/7.%20Sticky%20Navbar) | [Click Here](https://sticky-navbar-14daysjs.netlify.app/) |
 |   ✅   |      Dark Mode Toggle      |   17-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/8.%20Dark%20Mode%20Toggle) | [Click Here](https://dark-mode-toggle-14daysjs.netlify.app/) |
-|   ❌   | Auto Text Effect Animation |   18-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
+|   ✅   | Auto Text Effect Animation |   18-Feb-2023   |  [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/9.%20Auto%20Text%20Animation) | [Click Here](https://auto-text-animation-14daysjs.netlify.app/) |
 |   ❌   |        Image Slider        |   19-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |     Step Progress Bar      |   20-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
 |   ❌   |     English Dictionary     |   21-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
