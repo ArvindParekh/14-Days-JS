@@ -11,7 +11,7 @@ function textChange() {
         text.textContent = 'a Learner .';
     }, 2500);
     setTimeout(() => {
-        text.textContent = 'a Programmer .';
+        text.textContent = 'a Programmer.';
     }, 5000);
 
     setTimeout(() => {
