@@ -19,7 +19,7 @@ body {
 
 .text-container {
     width: 600px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     /* width: 400px; */
     overflow: hidden;
     /* display: flex;
