@@ -25,11 +25,11 @@
 |   ✅   |       Sticky Navbar        |   16-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/7.%20Sticky%20Navbar) | [Click Here](https://sticky-navbar-14daysjs.netlify.app/) |
 |   ✅   |      Dark Mode Toggle      |   17-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/8.%20Dark%20Mode%20Toggle) | [Click Here](https://dark-mode-toggle-14daysjs.netlify.app/) |
 |   ✅   | Auto Text Effect Animation |   18-Feb-2023   |  [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/9.%20Auto%20Text%20Animation) | [Click Here](https://auto-text-animation-14daysjs.netlify.app/) |
-|   ❌   |        Image Slider        |   19-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
-|   ❌   |     Step Progress Bar      |   20-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
-|   ❌   |     English Dictionary     |   21-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
-|   ❌   |   Random Quote Generator   |   22-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
-|   ❌   |          Note App          |   23-Feb-2023   |                                       Coming Soon                                        |  Coming Soon   |
+|   ✅   |        Image Slider        |   19-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/10.%20Image%20Slider) | [Click Here](https://image-slider-14daysjs.netlify.app/) |
+|   ✅   |     Step Progress Bar      |   20-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/11.%20Progress%20Bar) | [Click Here](https://progress-bar-14daysjs.netlify.app/) |
+|   ❌   |     English Dictionary     |   21-Feb-2023   | [Click Here]() | [Click Here]() |
+|   ❌   |   Random Quote Generator   |   22-Feb-2023   | Coming Soon | Coming Soon |
+|   ❌   |          Note App          |   23-Feb-2023   | Coming Soon | Coming Soon |
 
 ## <img src="https://camo.githubusercontent.com/7d747cc08b78d016646aed967d248840d37bb148002f56f7f24bc0f4e56ff540/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333433372f333433373239372e706e67" width="30" /> Connect with Me
 
