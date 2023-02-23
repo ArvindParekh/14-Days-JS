@@ -29,7 +29,7 @@
 |   ✅   |     Step Progress Bar      |   20-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/11.%20Progress%20Bar) | [Click Here](https://progress-bar-14daysjs.netlify.app/) |
 |   ✅   |     English Dictionary     |   21-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/12.%20English%20Dictionary) | [Click Here](https://english-dictionary-14daysjs.netlify.app/) |
 |   ✅   |   Random Quote Generator   |   22-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/13.%20Quote%20Generator) | [Click Here](https://random-quote-generator-14daysjs.netlify.app/) |
-|   ❌   |          Note App          |   23-Feb-2023   | Coming Soon | Coming Soon |
+|   ✅   |          Note App          |   23-Feb-2023   | [Click Here](https://github.com/ArvindParekh/14-Days-JS/tree/main/14.%20Note%20Taking%20App) | [Click Here](https://note-taking-app-14daysjs.netlify.app/) |
 
 ## <img src="https://camo.githubusercontent.com/7d747cc08b78d016646aed967d248840d37bb148002f56f7f24bc0f4e56ff540/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333433372f333433373239372e706e67" width="30" /> Connect with Me
 
