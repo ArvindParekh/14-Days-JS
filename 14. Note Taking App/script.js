@@ -29,8 +29,8 @@ function addNote() {
     closeHeader.setAttribute("onclick", "deleteNote(this)"); //run deleteNote function on clicking X
 
     //adding classes
-    notesContainer.classList.add('border', 'border-gray-600');
-    noteDiv.classList.add('ease-out');
+    notesContainer.classList.add("border", "border-gray-600");
+    noteDiv.classList.add("ease-out");
     noteDiv.setAttribute("id", "notes-" + noteIndex);
     closeHeader.setAttribute("itemid", "notes-" + noteIndex++);
     noteDiv.classList.add(
@@ -65,16 +65,16 @@ function deleteNote(element) {
   console.log("Delete note function is running");
   console.log(element);
 
-  let notesId = element.getAttribute('itemid');
+  let notesId = element.getAttribute("itemid");
   console.log(notesId);
   let note = document.querySelector(`#${notesId}`);
   console.log(note);
   note.innerHTML = "";
 
-  note.removeAttribute('class');
+  note.removeAttribute("class");
 
-  if(notesId == 'notes-0'){
-    let maindiv = document.querySelector('.notes-container');
-    maindiv.classList.remove('border', 'border-gray-600');
+  if (notesId == "notes-0") {
+    let maindiv = document.querySelector(".notes-container");
+    maindiv.classList.remove("border", "border-gray-600");
   }
 }
