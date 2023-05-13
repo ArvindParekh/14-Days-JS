@@ -35,7 +35,7 @@
 
 <p>
 
-<a href="https://twitter.com/ArvindParekh_21" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="HarshThakkar971" height="40" width="50" /></a>
+<a href="https://twitter.com/ArvindParekh_21" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="@ArvindParekh_21" height="40" width="50" /></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arvind-parekh-b756a71ba/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
 &nbsp;&nbsp;
